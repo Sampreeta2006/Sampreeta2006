@@ -1,16 +1,118 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sampreeta V</h1>
 
-<!--
-**Sampreeta2006/Sampreeta2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Final Year Computer Science Engineering Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Machine Learning • Data Analytics • Full Stack Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 Final Year B.E. Computer Science Engineering Student
+
+💡 Passionate about Machine Learning, Artificial Intelligence, and Data Analytics
+
+🌱 Currently learning Advanced Machine Learning & Full Stack Development
+
+🚀 Building AI-powered applications and data-driven solutions
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
+</p>
+
+### Data Analytics & ML
+
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+- Scikit-Learn
+- NLP
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🤖 AI Resume Analyzer
+
+Python • Streamlit • NLP • Machine Learning
+
+✔ ATS Score Prediction
+
+✔ Resume Skill Extraction
+
+✔ Career Recommendation
+
+---
+
+## 🎬 Netflix Data Analysis Dashboard
+
+Power BI Dashboard
+
+✔ Genre Analysis
+
+✔ Country Analysis
+
+✔ Rating Distribution
+
+✔ Interactive Dashboard
+
+---
+
+## 💳 Credit Card Fraud Dashboard
+
+Power BI Dashboard
+
+✔ Fraud Analysis
+
+✔ Transaction Insights
+
+✔ Interactive KPIs
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sampreeta2006&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sampreeta2006&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sampreeta2006&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect with Me
+
+📧 Email: sampreeta2006@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sampreeta-v-3022ab2a3
+
+💻 GitHub:
+https://github.com/Sampreeta2006
+
+---
+
+⭐ Thank you for visiting my profile!
